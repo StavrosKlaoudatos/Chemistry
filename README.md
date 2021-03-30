@@ -6,4 +6,4 @@ tkinter
 wikipedia
 pandas
 
-This is my record: It took me exactly 7:41 seconds to code the Chemistry.py script without any prior experience with Tkinter!
+This is my record: It took me exactly 7:41 minutes to code the Chemistry.py script without any prior experience with Tkinter!
